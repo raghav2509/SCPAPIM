@@ -1,0 +1,23 @@
+1. Gateway config
+
+2. create API
+
+3. policies
+
+
+API_OA_OwnerAllocation_Create
+
+
+[?10/?16/?2019 2:42 PM]  Prasad, Kanagala Shiva:  
+_https://produs3apiportalapimgmtpus3-h95d77fd5.us3.hana.ondemand.com/shell/develop 
+ 
+[?10/?16/?2019 2:43 PM]  Prasad, Kanagala Shiva:  
+_https://produs3apiportalapimgmtpus3-h7cb4dae0.us3.hana.ondemand.com/shell/develop 
+ 
+[?10/?16/?2019 2:43 PM]  Prasad, Kanagala Shiva:  
+Shiva.Prasad@amwater.com
+Welcome@123
+ 
+[?10/?16/?2019 2:49 PM]  Prasad, Kanagala Shiva:  
+Jabra@6688
+ 
